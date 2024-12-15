@@ -11,7 +11,7 @@
 
 Esophageal cancer (EC) is a prevalent disease with a high fatality rate, making early detection in clinical practice challenging. Similar to identifying colon polyps, doctors often utilize an endoscope to observe EC lesions. However, segmenting early esophageal cancer is difficult, due to the flat shape, similar color to the surrounding mucosa, and the interference of esophageal inflammation. Moreover, this field lacks a comprehensive benchmark for depth exploration. To address these challenges, we construct a new benchmark and propose a novel Frequency-enhanced Contextual Conversion Network (FCC-Net) for esophageal lesion segmentation, which effectively captures multi-level context information and leverages the frequency domain to identify fine-grained lesion boundaries. Specifically, we propose a Frequency-enhanced Context Module (FCM) to merge high-level features, facilitating the capture of global context information and offering essential cues from the frequency domain for accurate lesion boundary identification. Additionally, we present a Scale-induced Cross-level Fusion (SCF) module that fully integrates features from the adjacent levels. This enables the learning of multi-scale features through different convolution kernels, effectively handling scale variations. Furthermore, a Contextual Conversion Module (CCM) is presented to incorporate the global context information and boundary-related cues to enhance EC lesion segmentation performance. Experimental results across multiple EC datasets demonstrate that our model outperforms other state-of-the-art medical segmentation methods. 
 
-### 2.2. Framework Overview
+### 2.2. Dataset Overview
 
 <p align="center">
     <img src="dataset_example.png"/> <br />
