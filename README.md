@@ -14,7 +14,7 @@ Esophageal cancer (EC) is a prevalent disease with a high fatality rate, making 
 ### 2.2. Framework Overview
 
 <p align="center">
-    <img src="imgs/dataset_example.png"/> <br />
+    <img src="dataset_example.png"/> <br />
     <em>
     Figure 1: Illustrations of some examples from NBI and WLI datasets with a diversity of challenging factors, such as varying sizes, irregular shapes, and blurred edges (red or green circled area), and some benign changes similar to the appearance of esophageal cancer (blue circled areas).
     </em>
